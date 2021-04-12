@@ -7,4 +7,4 @@ print('second change from github')
 #################################### 5PM ####################
 print('first change from local PC 5PM')
 print('first change from github')
-print('second change from GITHUB')
+print('second change from local')
